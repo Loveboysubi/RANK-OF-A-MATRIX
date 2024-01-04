@@ -14,6 +14,7 @@ prepare the lists from each linear equations and assign in np.array()
 ### Step 4: 
 end the program
 ## Program:
+```PYTHON
 #Program to find the rank of a matrix.
 #Developed by:Subishesh P 
 #RegisterNumber:23003621
@@ -21,6 +22,7 @@ import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank=np.linalg.matrix_rank(A)
 print(rank)
+```
 ## Output:
 ![image](https://github.com/Loveboysubi/RANK-OF-A-MATRIX/assets/138970879/53f5a052-21b3-4d3a-b591-ceed5580aea9)
 
